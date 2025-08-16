@@ -1,0 +1,19 @@
+.about {
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.about .btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #ff9800;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.about .btn:hover {
+  background: #e68900;
+}
