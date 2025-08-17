@@ -3,8 +3,8 @@ import "./Projects.css";
 function Projects() {
   const webProjects = [
     { name: "Portfolio Website", link: "#", description: "React + CSS" },
-    { name: "Weather App", link: "#", description: "React + API" },
-    { name: "Todo App", link: "#", description: "React + LocalStorage" }
+    { name: "Weather App", link: "#", description: "React (ongoing)" },
+    { name: "Todo App", link: "#", description: "React + LocalStorage (future project)" }
   ];
 
   const graphicsProjects = [
